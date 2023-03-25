@@ -114,7 +114,7 @@ function GachaSimulator() {
                 }
             } else {
                 return {
-                    retuls: Pickup[1],
+                    result: Pickup[1],
                     stars: info.stars
                 }
             }
@@ -148,7 +148,7 @@ function GachaSimulator2() {
                 }
             } else {
                 return {
-                    retuls: Pickup[1],
+                    result: Pickup[1],
                     stars: info.stars
                 }
             }
