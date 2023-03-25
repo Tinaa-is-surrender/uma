@@ -178,3 +178,14 @@ function RunGachaSimulator() {
 
 RunGachaSimulator();
 
+module.exports = {
+    ThreeStars,
+    TwoStars,
+    OneStar,
+    Pickup,
+    RandomNumGen,
+    gachaStars,
+    gachaStars2,
+    GachaSimulator,
+    GachaSimulator2,
+}
